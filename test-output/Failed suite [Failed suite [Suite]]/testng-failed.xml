@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="TsetOnChromeBrowser(failed)(failed)(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.SauceDemo.TestClass.TC04_VerifyAllProductFunctionality">
+        <methods>
+          <include name="verifyAllProductFunctionality"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClass.TC04_VerifyAllProductFunctionality -->
+      <class name="com.SauceDemo.TestClass.TC05_VerifyDropDownFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyDropDownFunctionality"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClass.TC05_VerifyDropDownFunctionality -->
+    </classes>
+  </test> <!-- TsetOnChromeBrowser(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->
