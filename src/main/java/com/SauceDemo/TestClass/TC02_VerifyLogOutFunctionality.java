@@ -29,7 +29,7 @@ public class TC02_VerifyLogOutFunctionality extends TestBaseClass
 		   String expectedTitle = "Swag Labs";    //dev/BA
 			
 		   String actualTitle = driver.getTitle();
-		
+		   log.info(actualTitle);
 		   Assert.assertEquals(actualTitle, expectedTitle);
 
 	}

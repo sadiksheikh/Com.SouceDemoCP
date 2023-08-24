@@ -752,3 +752,526 @@ Price (high to low)<--
 2022-10-16 00:22:18,156  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)(failed)-2] CopyPastSouceDemoProject:33 - Apply Validation
 2022-10-16 00:22:18,590  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)(failed)-1] CopyPastSouceDemoProject:30 - actual product->3
 2022-10-16 00:22:18,590  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)(failed)-1] CopyPastSouceDemoProject:32 - apply validation
+2022-10-18 21:18:06,557  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-18 21:18:06,571  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-18 21:18:06,578  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-18 21:18:06,584  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-18 21:18:07,593  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-18 21:18:07,609  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-18 21:18:07,642  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-18 21:18:08,030  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-18 21:18:22,066  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-18 21:18:22,820  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-18 21:18:23,543  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-18 21:18:23,817  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-18 21:18:23,972  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-18 21:18:24,286  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-18 21:18:24,599  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-18 21:18:25,087  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-18 21:18:25,691  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:19 - apply the validation
+2022-10-18 21:18:25,970  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:20 - DropDown Perform Susscessfully
+2022-10-18 21:18:26,674  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:30 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2022-10-18 21:18:26,674  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:31 - Apply Validation
+2022-10-18 21:18:27,969  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-18 21:18:28,659  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-18 21:18:28,956  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-18 21:18:29,192  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-18 21:18:29,589  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-18 21:18:30,155  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:22 - Bag product will get selected
+2022-10-18 21:18:30,201  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-18 21:18:30,587  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-18 21:18:30,759  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:29 - actual product->1
+2022-10-18 21:18:30,760  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:31 - apply validation
+2022-10-18 21:18:31,175  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-18 21:18:31,833  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2022-10-18 21:18:32,223  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2022-10-18 21:18:32,224  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2022-10-18 21:18:33,303  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-18 21:18:33,303  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-18 21:18:33,592  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-18 21:18:35,507  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-18 21:18:35,862  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-18 21:18:36,658  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-18 21:18:39,912  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-18 21:18:40,403  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-18 21:18:40,623  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-18 21:18:40,854  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-18 21:18:41,484  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:26 - apply the validation
+2022-10-18 21:18:42,982  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-20 20:40:18,857  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-20 20:40:18,855  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-20 20:40:18,852  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-20 20:40:18,859  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-20 20:40:19,687  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-20 20:40:20,254  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-20 20:40:20,312  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-20 20:40:20,774  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-20 20:40:27,861  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-20 20:40:29,127  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-20 20:40:29,153  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-20 20:40:30,642  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-20 20:40:31,005  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-20 20:40:31,136  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-20 20:40:31,158  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-20 20:40:31,320  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-20 20:40:31,547  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-20 20:40:31,648  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-20 20:40:32,257  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-20 20:40:32,589  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-20 20:40:32,628  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-20 20:40:32,844  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-20 20:40:33,261  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:22 - Bag product will get selected
+2022-10-20 20:40:33,277  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:19 - apply the validation
+2022-10-20 20:40:33,342  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-20 20:40:33,372  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:23 - Swag Labs
+2022-10-20 20:40:33,896  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:20 - DropDown Perform Susscessfully
+2022-10-20 20:40:33,939  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:29 - actual product->1
+2022-10-20 20:40:33,939  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:31 - apply validation
+2022-10-20 20:40:34,071  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-20 20:40:34,674  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:30 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2022-10-20 20:40:34,675  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:31 - Apply Validation
+2022-10-20 20:40:35,146  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2022-10-20 20:40:35,612  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2022-10-20 20:40:35,613  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2022-10-20 20:40:36,144  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-20 20:40:36,420  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-20 20:40:36,710  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-20 20:40:36,829  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-20 20:40:38,422  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-20 20:40:38,771  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-20 20:40:42,541  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:48 - URL is opened
+2022-10-20 20:40:42,914  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:57 - Username is entered
+2022-10-20 20:40:43,137  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:60 - Password is entered
+2022-10-20 20:40:43,457  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:63 - Clicked on login button
+2022-10-20 20:40:44,153  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:26 - apply the validation
+2022-10-20 20:40:44,167  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:32 - Swag Labs
+2022-10-20 20:40:45,552  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:73 - browser is closed
+2022-10-23 19:39:33,769  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-23 19:39:33,766  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-23 19:39:33,771  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-23 19:39:34,915  INFO [TestNG-test=TsetOnChromeBrowser-4] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-23 19:39:34,929  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-23 19:39:35,081  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-23 19:39:36,388  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-23 19:39:37,185  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:45 - Browser is maximized
+2022-10-23 19:39:45,827  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:41 - Browser is opened
+2022-10-23 19:39:46,214  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:45 - Browser is maximized
+2023-05-30 16:25:58,094  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:25:58,091  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:25:58,089  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:25:58,972  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:25:59,199  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:25:59,225  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:26:02,581  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:26:02,610  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:26:03,332  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:26:04,665  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:26:04,905  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:26:05,373  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:26:06,470  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:26:06,732  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:26:06,796  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:26:07,574  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:26:08,088  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:26:08,211  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:26:09,096  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-05-30 16:26:09,609  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:20 - DropDown Perform Susscessfully
+2023-05-30 16:26:09,786  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-05-30 16:26:09,864  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:29 - actual product->1
+2023-05-30 16:26:09,865  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:31 - apply validation
+2023-05-30 16:26:10,249  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:30 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-05-30 16:26:10,250  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:31 - Apply Validation
+2023-05-30 16:26:10,532  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-05-30 16:26:10,533  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-05-30 16:26:11,479  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:26:11,596  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:26:11,656  INFO [TestNG-test=TsetOnChromeBrowser-3] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:26:13,571  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:26:13,809  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:26:15,262  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:26:16,241  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:26:16,819  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:26:17,388  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:26:18,103  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:26 - apply the validation
+2023-05-30 16:26:18,119  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:32 - Swag Labs
+2023-05-30 16:26:18,531  INFO [TestNG-test=TsetOnChromeBrowser-2] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:28:14,937  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:28:15,115  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:28:16,249  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:28:17,059  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:28:17,375  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:28:17,782  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:28:18,586  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-05-30 16:28:18,988  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-05-30 16:28:18,988  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-05-30 16:28:19,525  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:28:21,810  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:28:22,237  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:28:24,011  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:28:24,863  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:28:25,139  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:28:25,579  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:28:25,959  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-05-30 16:28:26,407  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-05-30 16:28:26,408  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-05-30 16:28:26,901  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:28:29,044  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:28:29,269  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:28:30,582  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:28:31,274  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:28:31,547  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:28:32,024  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:28:32,639  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:20 - DropDown Perform Susscessfully
+2023-05-30 16:28:32,964  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-05-30 16:28:32,964  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - Apply Validation
+2023-05-30 16:28:33,365  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:28:35,080  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:28:35,369  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:28:36,638  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:28:37,253  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:28:37,538  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:28:38,151  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:28:38,821  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-05-30 16:28:38,838  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-05-30 16:28:39,349  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-05-30 16:28:41,359  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-05-30 16:28:41,627  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-05-30 16:28:43,049  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-05-30 16:28:43,735  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:62 - Username is entered
+2023-05-30 16:28:44,199  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:65 - Password is entered
+2023-05-30 16:28:44,604  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:68 - Clicked on login button
+2023-05-30 16:28:45,412  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-05-30 16:28:45,426  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-05-30 16:28:45,845  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:78 - browser is closed
+2023-08-20 21:35:51,142  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:35:51,493  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:35:53,036  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:35:53,666  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:35:53,843  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:35:54,076  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:35:54,638  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:35:54,988  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:35:54,989  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:35:55,449  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:35:57,140  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:35:57,340  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:35:58,655  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:35:59,104  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:35:59,259  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:35:59,490  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:35:59,766  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-20 21:36:00,138  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-20 21:36:00,139  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-08-20 21:36:00,497  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:36:02,418  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:36:02,731  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:36:04,347  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:36:04,849  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:36:05,009  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:36:05,243  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:36:05,762  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:20 - DropDown Perform Susscessfully
+2023-08-20 21:36:06,053  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-08-20 21:36:06,053  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - Apply Validation
+2023-08-20 21:36:06,418  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:36:07,996  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:36:08,239  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:36:09,402  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:36:09,884  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:36:10,029  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:36:10,279  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:36:10,761  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-20 21:36:10,774  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-20 21:36:11,135  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:36:12,963  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:36:13,190  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:36:14,328  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:36:14,778  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:36:14,940  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:36:15,166  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:36:15,782  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-20 21:36:15,793  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-20 21:36:16,095  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:38:53,146  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:38:53,315  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:38:54,600  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:38:55,117  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:38:55,282  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:38:55,497  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:38:56,159  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:38:56,539  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:38:56,539  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:38:57,098  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:38:59,129  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:38:59,346  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:39:00,552  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:39:01,024  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:39:01,191  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:39:01,409  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:39:01,737  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-20 21:39:02,095  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-20 21:39:02,095  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-08-20 21:39:02,481  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:39:04,324  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:39:04,470  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:39:06,320  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:39:06,782  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:39:06,946  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:39:07,175  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:39:07,669  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-20 21:39:07,980  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-08-20 21:39:07,980  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-20 21:39:08,393  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:39:10,252  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:39:10,414  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:39:11,920  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:39:12,380  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:39:12,538  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:39:12,802  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:39:13,296  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-20 21:39:13,311  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-20 21:39:13,695  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:39:15,547  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:39:15,801  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:39:17,190  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:39:17,618  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:39:17,784  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:39:18,027  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:39:18,638  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-20 21:39:18,648  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-20 21:39:19,015  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:40:56,632  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:40:56,938  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:40:58,474  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:40:59,096  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:40:59,250  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:40:59,528  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:41:00,138  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:41:00,494  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:41:00,494  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:41:00,817  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:41:02,594  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:41:02,754  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:41:04,291  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:41:04,774  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:41:04,939  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:41:05,175  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:41:05,511  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-20 21:41:05,879  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-20 21:41:05,879  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-08-20 21:41:06,263  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:41:08,063  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:41:08,234  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:41:09,816  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:41:10,272  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:41:10,493  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:41:10,790  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:41:11,288  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-20 21:41:11,611  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-08-20 21:41:11,612  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-20 21:41:12,037  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:41:13,939  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:41:14,148  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:41:15,615  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:41:16,051  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:41:16,225  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:41:16,448  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:41:16,939  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-20 21:41:16,951  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-20 21:41:17,333  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:41:19,282  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:41:19,614  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:41:21,226  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:41:21,675  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:41:21,843  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:41:22,071  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:41:22,693  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-20 21:41:22,709  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-20 21:41:23,138  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:45:49,141  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:45:49,692  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:45:49,716  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:45:50,015  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:45:51,777  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:45:52,532  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:45:52,688  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:45:53,008  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:45:53,181  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:45:53,447  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:45:53,627  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:45:54,076  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:45:54,437  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:45:54,657  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-20 21:45:54,887  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:45:54,887  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:45:55,100  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)<--
+2023-08-20 21:45:55,101  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-20 21:45:55,571  INFO [TestNG-test=TsetOnChromeBrowser(failed)-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:45:55,603  INFO [TestNG-test=TsetOnChromeBrowser(failed)-2] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:47:12,906  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:47:12,903  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:47:13,300  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:47:13,360  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:47:16,146  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:47:16,335  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:47:17,165  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:47:17,173  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:47:17,464  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:47:17,465  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:47:18,041  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:47:18,150  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:47:18,946  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-20 21:47:19,100  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:47:19,398  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-20 21:47:19,399  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-20 21:47:19,659  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:47:19,660  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:47:20,078  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-2] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:47:20,169  INFO [TestNG-test=TsetOnChromeBrowser(failed)(failed)-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:48:04,143  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:48:04,315  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:48:05,666  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:48:06,199  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:48:06,356  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:48:06,607  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:48:07,224  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - All products will get selected
+2023-08-20 21:48:07,581  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - actual product->3
+2023-08-20 21:48:07,582  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - apply validation
+2023-08-20 21:48:07,989  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:48:09,537  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:48:09,765  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:48:11,658  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:48:12,121  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:48:12,281  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:48:12,498  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:48:12,799  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-20 21:48:13,138  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-20 21:48:13,139  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-08-20 21:48:13,502  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:48:15,092  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:48:15,332  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:48:17,376  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:48:17,848  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:48:18,028  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:48:18,374  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:48:18,853  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-20 21:48:19,123  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-20 21:48:19,124  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-20 21:48:19,493  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:48:21,132  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:48:21,336  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:48:22,861  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:48:23,296  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:48:23,456  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:48:23,687  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:48:24,095  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-20 21:48:24,107  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-20 21:48:24,466  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-20 21:48:26,054  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-20 21:48:26,351  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-20 21:48:28,417  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-20 21:48:28,867  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-20 21:48:29,051  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-20 21:48:29,285  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-20 21:48:29,901  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-20 21:48:29,915  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-20 21:48:30,298  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-21 12:20:59,460  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-21 12:21:00,137  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-21 12:21:02,641  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-21 12:21:03,480  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-21 12:21:03,721  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-21 12:21:04,205  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-21 12:21:04,529  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-21 12:21:04,935  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-21 12:21:04,936  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:31 - apply validation
+2023-08-21 12:21:05,407  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-21 12:21:07,939  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-21 12:21:08,186  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-21 12:21:10,327  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-21 12:21:11,111  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-21 12:21:11,293  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-21 12:21:11,590  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-21 12:21:12,118  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-21 12:21:12,403  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-21 12:21:12,403  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-21 12:21:13,155  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-21 12:21:15,280  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-21 12:21:15,503  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-21 12:21:17,182  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-21 12:21:18,087  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-21 12:21:18,380  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-21 12:21:18,838  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-21 12:21:19,421  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-21 12:21:19,436  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-21 12:21:19,961  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-21 12:21:22,316  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:46 - Browser is opened
+2023-08-21 12:21:22,555  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:50 - Browser is maximized
+2023-08-21 12:21:24,331  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:53 - URL is opened
+2023-08-21 12:21:24,907  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:63 - Username is entered
+2023-08-21 12:21:25,095  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:66 - Password is entered
+2023-08-21 12:21:25,400  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:69 - Clicked on login button
+2023-08-21 12:21:26,055  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-21 12:21:26,071  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-21 12:21:26,835  INFO [TestNG-test=TsetOnChromeBrowser-1] CopyPastSouceDemoProject:79 - browser is closed
+2023-08-21 13:19:27,060  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-21 13:19:27,713  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-21 13:19:29,456  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-21 13:19:30,739  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-21 13:19:30,952  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-21 13:19:31,223  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-21 13:19:32,127  INFO [main] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-21 13:19:32,400  INFO [main] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-21 13:19:32,401  INFO [main] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-21 13:19:33,150  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-21 13:19:35,294  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-21 13:19:35,463  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-21 13:19:37,084  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-21 13:19:37,574  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-21 13:19:37,737  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-21 13:19:37,986  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-21 13:19:38,252  INFO [main] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-21 13:19:38,575  INFO [main] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-21 13:19:38,576  INFO [main] CopyPastSouceDemoProject:31 - apply validation
+2023-08-21 13:19:38,956  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-21 13:19:40,763  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-21 13:19:40,989  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-21 13:19:42,813  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-21 13:19:43,262  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-21 13:19:43,422  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-21 13:19:43,658  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-21 13:19:44,161  INFO [main] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-21 13:19:44,178  INFO [main] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-21 13:19:44,678  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-21 13:19:46,632  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-21 13:19:46,840  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-21 13:19:48,051  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-21 13:19:48,503  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-21 13:19:48,666  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-21 13:19:48,916  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-21 13:19:49,582  INFO [main] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-21 13:19:49,598  INFO [main] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-21 13:19:50,008  INFO [main] CopyPastSouceDemoProject:80 - browser is closed

@@ -1,12 +1,14 @@
 package com.SauceDemo.TestClass;
 
+
+
 import java.io.IOException;
 import java.time.Duration;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -28,7 +30,11 @@ public class TestBaseClass
 			{
 			    System.setProperty("webdriver.chrome.driver", 
 						"./DriverFiles\\chromedriver.exe");
-				driver = new ChromeDriver();
+			    
+			    ChromeOptions options = new ChromeOptions();
+				 options.addArguments("--remote-allow-origins=*");
+				 
+				driver = new ChromeDriver(options);
 			}
 			else
 			{
@@ -50,6 +56,7 @@ public class TestBaseClass
 			ScreenshotClass.takeScreenshot(driver);
 			 
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+		
 			
 			//login
 			LoginPOMClass lp = new LoginPOMClass(driver);
@@ -70,7 +77,7 @@ public class TestBaseClass
 		{
 
 			driver.quit();
-			System.out.println("browser is closed");
+			log.info("browser is closed");
 			
 		}
 

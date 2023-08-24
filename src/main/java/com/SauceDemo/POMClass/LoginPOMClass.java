@@ -10,7 +10,7 @@ public class LoginPOMClass
 {
 	   //1.driver declared
 		private WebDriver driver;
-		private Actions act;
+//		private Actions act;
 		
 		//2.element find BY Annotation Method
 		@FindBy(xpath = "//input[@id='user-name']")
@@ -60,7 +60,7 @@ public class LoginPOMClass
 			//sele class
 			PageFactory.initElements(driver, this);
 			
-			act = new Actions(driver);
+//			act = new Actions(driver);
 		}
 		
 		

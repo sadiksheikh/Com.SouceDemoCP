@@ -11,13 +11,6 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- com.SauceDemo.TestClass.TC04_VerifyAllProductFunctionality -->
-      <class name="com.SauceDemo.TestClass.TC05_VerifyDropDownFunctionality">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyDropDownFunctionality"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.SauceDemo.TestClass.TC05_VerifyDropDownFunctionality -->
     </classes>
   </test> <!-- TsetOnChromeBrowser(failed)(failed)(failed) -->
 </suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

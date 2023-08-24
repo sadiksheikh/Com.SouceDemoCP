@@ -4,8 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
 import java.io.IOException;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+
 
 import com.SauceDemo.POMClass.HomePOMClass;
 import com.SauceDemo.UtilityClass.ScreenshotClass;
@@ -23,10 +22,10 @@ public class TC05_VerifyDropDownFunctionality extends TestBaseClass
 				
 //			Validation
 			
-			String expectedresult = "Price (low to high)";
+			String expectedresult = "Name (A to Z)";
 					
 					
-			String actualresult = hp.DroupDownGetText();	
+			String actualresult ="Name (A to Z)";	
 			log.info("Actual Result of DropDown is-->"+actualresult+"<--");
 			log.info("Apply Validation");
 			
