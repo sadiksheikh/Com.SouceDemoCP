@@ -1485,3 +1485,79 @@ Price (high to low)<--
 2023-08-25 23:34:25,355  INFO [main] CopyPastSouceDemoProject:26 - apply the validation
 2023-08-25 23:34:25,368  INFO [main] CopyPastSouceDemoProject:32 - Swag Labs
 2023-08-25 23:34:25,750  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:05:33,219  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:05:33,381  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:05:35,223  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:05:35,758  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:05:35,955  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:05:36,258  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:05:37,154  INFO [main] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-26 00:05:37,501  INFO [main] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-26 00:05:37,502  INFO [main] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-26 00:05:38,276  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:05:40,532  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:05:40,860  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:05:42,492  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:05:43,093  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:05:43,308  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:05:43,637  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:05:44,029  INFO [main] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-26 00:05:44,406  INFO [main] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-26 00:05:44,407  INFO [main] CopyPastSouceDemoProject:31 - apply validation
+2023-08-26 00:05:44,739  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:05:46,438  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:05:46,583  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:05:47,984  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:05:48,572  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:05:48,771  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:05:49,095  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:05:49,651  INFO [main] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-26 00:05:49,677  INFO [main] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-26 00:05:50,094  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:05:51,847  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:05:51,992  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:05:53,355  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:05:53,897  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:05:54,099  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:05:54,529  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:05:55,298  INFO [main] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-26 00:05:55,316  INFO [main] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-26 00:05:55,651  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:14:16,345  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:14:16,507  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:14:18,518  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:14:20,378  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:14:21,317  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:14:21,881  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:14:22,458  INFO [main] CopyPastSouceDemoProject:19 - DropDown Perform Susscessfully
+2023-08-26 00:14:22,787  INFO [main] CopyPastSouceDemoProject:29 - Actual Result of DropDown is-->Name (A to Z)<--
+2023-08-26 00:14:22,790  INFO [main] CopyPastSouceDemoProject:30 - Apply Validation
+2023-08-26 00:14:24,012  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:14:26,078  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:14:26,246  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:14:27,607  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:14:28,191  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:14:28,399  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:14:28,711  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:14:29,065  INFO [main] CopyPastSouceDemoProject:22 - Bag product will get selected
+2023-08-26 00:14:29,472  INFO [main] CopyPastSouceDemoProject:29 - actual product->1
+2023-08-26 00:14:29,473  INFO [main] CopyPastSouceDemoProject:31 - apply validation
+2023-08-26 00:14:29,830  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:14:31,888  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:14:32,045  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:14:33,253  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:14:33,898  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:14:34,294  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:14:34,734  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:14:35,412  INFO [main] CopyPastSouceDemoProject:19 - apply the validation
+2023-08-26 00:14:35,439  INFO [main] CopyPastSouceDemoProject:23 - Swag Labs
+2023-08-26 00:14:35,844  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
+2023-08-26 00:14:38,158  INFO [main] CopyPastSouceDemoProject:47 - Browser is opened
+2023-08-26 00:14:38,302  INFO [main] CopyPastSouceDemoProject:51 - Browser is maximized
+2023-08-26 00:14:39,731  INFO [main] CopyPastSouceDemoProject:54 - URL is opened
+2023-08-26 00:14:40,290  INFO [main] CopyPastSouceDemoProject:64 - Username is entered
+2023-08-26 00:14:40,484  INFO [main] CopyPastSouceDemoProject:67 - Password is entered
+2023-08-26 00:14:40,755  INFO [main] CopyPastSouceDemoProject:70 - Clicked on login button
+2023-08-26 00:14:41,446  INFO [main] CopyPastSouceDemoProject:26 - apply the validation
+2023-08-26 00:14:41,464  INFO [main] CopyPastSouceDemoProject:32 - Swag Labs
+2023-08-26 00:14:42,158  INFO [main] CopyPastSouceDemoProject:80 - browser is closed
