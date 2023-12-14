@@ -17,7 +17,7 @@ public class HomePOMClass
 		//4.Constructor create
 	
 	//1.
-	private WebDriver driver;
+	WebDriver driver;
 	private Select s;			//For DropDown Perform
 	
 //	Logout Functionality
@@ -81,9 +81,9 @@ public class HomePOMClass
 	
 	public void clickAllProducts()
 	{
-		for(int i=0; i<allProducts.size();i++)
+		for(WebElement allProduct : allProducts )
 		{
-			allProducts.get(i).click();
+			allProduct.click();
 		}
 	}
 	//assignment

@@ -10,7 +10,7 @@ import com.SauceDemo.UtilityClass.ScreenshotClass;
 
 public class TC04_VerifyAllProductFunctionality extends TestBaseClass
 {
-	@Test(enabled = false)
+	@Test()
 	public void verifyAllProductFunctionality() throws IOException
 	{
 		

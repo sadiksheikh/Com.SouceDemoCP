@@ -13,6 +13,7 @@ import org.openqa.selenium.io.FileHandler;
 
 public class ScreenshotClass 
 {
+	// Screen Short Code
 	public static void takeScreenshot(WebDriver driver) throws IOException
 	{
 		Date d = new Date();
